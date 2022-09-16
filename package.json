@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node scraper.js"
+    "start": "node root.js"
   },
   "keywords": [],
   "author": "",
