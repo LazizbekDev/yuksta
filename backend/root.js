@@ -28,7 +28,7 @@ app.post('/api/yuksta', async (req,res) => {
             res.json({error: "Foydalanishga yoroqsiz havola kiritilgan"});
         }
     } catch (err) {
-        res.json({error: "Sizda kiritilgan havola bilan muammo bor!"})
+        res.json({error: "Sizda kiritilgan havola bilan mu-ammo bor!"})
     }
 })
 
