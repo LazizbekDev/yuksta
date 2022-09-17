@@ -32,7 +32,7 @@ app.post('/api/yuksta', async (req,res) => {
     }
 })
 
-const PORT = 5000;
+const PORT = 5001;
 
 app.listen(process.env.PORT || PORT, () => {
     console.log("Server...")
