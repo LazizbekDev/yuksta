@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sh-a {
+    width: 80vw;
+    height: 100vh;
+}
+
+.sh-a div {
+    width: 80%;
+}
